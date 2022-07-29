@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 656f0797d06c6e848bf76f2d00853e4b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _SecondaryTex: {instanceID: 0}
+  - _MetallicGlossMap: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _EmissionMap: {instanceID: 0}
+  nonModifiableTextures:
+  - _DFG: {fileID: 2800000, guid: 36e95c5d3fa574541b7fef463bece0db, type: 3}
+  - _PreIntSkinTex: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
