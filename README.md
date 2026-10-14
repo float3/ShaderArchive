@@ -7,4 +7,4 @@ Old Unity shaders kept for reference, not maintained.
 - `Shader/` the `3NewShader` family (back-then-front and hair variants)
 - `Misc/` AudioLink NaN marching, GPU particles, tension map, un-stereoed rendering, HMD detection
 
-Copy whatever you need into `Assets/`.
+copy whatever you need into `Assets/`.
